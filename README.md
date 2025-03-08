@@ -25,7 +25,7 @@
 
 ## Description
 
-Use Java? Want to [geocode][Geocoding API] something? Looking for [directions][Directions API]? This client library brings the following [Google Maps Web Services APIs] to your server-side Java applications:
+Use Java? Want to [geocode][Geocoding API] something? Looking for [directions][Directions API]? This client library brings the following [Google Maps Platform Web Services APIs] to your server-side Java applications:
 
 - [Maps Static API]
 - [Directions API]
@@ -232,11 +232,11 @@ Contributions are welcome and encouraged! If you'd like to contribute, send us a
 
 This library uses Google Maps Platform services. Use of Google Maps Platform services through this library is subject to the Google Maps Platform [Terms of Service].
 
-This library is not a Google Maps Platform Core Service. Therefore, the Google Maps Platform Terms of Service (e.g. Technical Support Services, Service Level Agreements, and Deprecation Policy) do not apply to the code in this library.
+This library is not a Google Maps Platform Core Service. Therefore, the Google Maps Platform Terms of Service, e.g., [Technical Support Services Guidelines], Service Level Agreement ["SLA"][SLA], and [Deprecation Policy], do not apply to the code in this library.
 
 ## Support
 
-This library is offered via an open source [license]. It is not governed by the Google Maps Platform Support [Technical Support Services Guidelines, the SLA, or the [Deprecation Policy]. However, any Google Maps Platform services used by the library remain subject to the Google Maps Platform Terms of Service.
+This library is offered via an open source [license]. It is not governed by the Google Maps Platform Support Technical Support Services Guidelines, the SLA, or the Deprecation Policy. However, any Google Maps Platform services used by the library remain subject to the Google Maps Platform Terms of Service.
 
 This library adheres to [semantic versioning] to indicate when backwards-incompatible changes are introduced. Accordingly, while the library is in version 0.x, backwards-incompatible changes may be introduced at any time.
 
@@ -265,8 +265,8 @@ You can also discuss this library on our [Discord server].
 [Discord server]: https://discord.gg/hYsWbmk
 [file an issue]: https://github.com/googlemaps/google-maps-services-java/issues/new/choose
 [license]: LICENSE
-[pull request]: https://github.com/googlemaps/google-maps-services-java/compare
 [project]: https://developers.google.com/maps/documentation/javascript/cloud-setup#enabling-apis
+[pull request]: https://github.com/googlemaps/google-maps-services-java/compare
 [semantic versioning]: https://semver.org
 [Sign up with Google Maps Platform]: https://console.cloud.google.com/google/maps-apis/start
 [similar inquiry]: https://github.com/googlemaps/google-maps-services-java/issues
